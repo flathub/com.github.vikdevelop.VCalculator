@@ -22,5 +22,5 @@ modules:
       - install -D -t /app/share/metainfo data/com.github.vikdevelop.VCalculator.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/vikdevelop/VCalculator/archive/refs/tags/1.0.7.tar.gz
-        sha256: 0037c251b33d21cb3a5cbc794c9c56435a595fa74534b8b9e5a89cae4a452fa1
+        url: https://github.com/vikdevelop/VCalculator/archive/refs/tags/1.0.7.1.tar.gz
+        sha256: 4c66b429c1626f8cff9dda4b72880befe78dc15acc5ea7fb093b009440d35851
