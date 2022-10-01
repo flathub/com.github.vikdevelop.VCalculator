@@ -1,6 +1,6 @@
 app-id: com.github.vikdevelop.VCalculator
 runtime: org.gnome.Platform
-runtime-version: '42'
+runtime-version: '43'
 sdk: org.gnome.Sdk
 command: run-vcalculator.sh
 
@@ -22,5 +22,5 @@ modules:
       - install -D -t /app/share/metainfo data/com.github.vikdevelop.VCalculator.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/vikdevelop/VCalculator/archive/refs/tags/1.0.7.1.tar.gz
-        sha256: 4c66b429c1626f8cff9dda4b72880befe78dc15acc5ea7fb093b009440d35851
+        url: https://github.com/vikdevelop/VCalculator/archive/refs/tags/1.0.8.tar.gz
+        sha256: 095f7c9156a0a53ae56954382d548363f05358333f77d574d73527c9d3f26e27
